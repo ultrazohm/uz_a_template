@@ -1,3 +1,0 @@
-Record=TopLevelDocument|FileName=TopSheet.SchDoc
-Record=SheetSymbol|SourceDocument=TopSheet.SchDoc|Designator=U_AnalogConnector|SchDesignator=U_AnalogConnector|FileName=AnalogConnector.SchDoc|SymbolType=Normal|RawFileName=AnalogConnector.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=TopSheet.SchDoc|Designator=U_CarrierConnector|SchDesignator=U_CarrierConnector|FileName=CarrierConnector.SchDoc|SymbolType=Normal|RawFileName=CarrierConnector.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
